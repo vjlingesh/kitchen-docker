@@ -1,2 +1,2 @@
-name "git"
+name "foo"
 version "0.1.0"
